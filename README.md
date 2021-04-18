@@ -14,4 +14,4 @@ I was inspired to [Veli Bacik's kartal package](https://github.com/VB10/kartal) 
 
 ---
 
-[alt text](ss/ss.png "Screen shot 1")
+![alt text](ss/ss.png "Screen shot 1")
